@@ -39,8 +39,9 @@ vignettes/*.pdf
 /_backup/
 
 # additional versions talk
+/presentation/
 /presentation/ggplot-wizardry_pdf.pptx
-/presentation/presentation/ggplot-wizardry-appendix.pptx
+/presentation/ggplot-wizardry-appendix.pptx
 
 # video recording
 /presentation/outlier_cedric_ggplot_wizardry.mp4
