@@ -21,7 +21,7 @@ The talk is intended for people who already know how to code in R and ggplot2. H
 
 #### Further Resources:
 
-* [Intro to R](https://moderndive.com/) (one of many good online tutorials))
+* [Intro to R](https://moderndive.com/) (one of many good online tutorials)
 * ["R for Data Science" book (open-access)](r4ds.had.co.nz/)
 * [ggplot2 Book (open-access)](https://ggplot2-book.org/)
 * [R Graph Gallery](https://www.r-graph-gallery.com/)
