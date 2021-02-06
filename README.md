@@ -28,7 +28,7 @@ The talk is intended for people who already know how to code in R and ggplot2. H
 * [My #TidyTuesday Contributions](https://github.com/Z3tt/TidyTuesday) incl. all codes
 * [R4DS learning community](https://www.rfordatasci.com/) (huge Slack community for people learning R incl. a mentoring program)
 * [Illustrations by Allison Horst](https://github.com/allisonhorst/stats-illustrations ) (more general about data and stats + R-related)
-* R Packages:
+* R Packages mentioned:
   + [ggplot2](https://ggplot2.tidyverse.org/)
   + [ggtext](https://wilkelab.org/ggtext/)
   + [ggforce](https://ggforce.data-imaginist.com/) 
