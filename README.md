@@ -2,6 +2,8 @@
 
 Slides and hands-on codes for my talk "ggplot WIzardry: My Favorite Tricks and Secrets for Beautiful Plots in R" at the [1st OutlierConf](https://www.outlierconf.com/), February 4–7 2021.
 
+![Title slide for my talk](https://raw.githubusercontent.com/Z3tt/OutlierConf2021/main/img/2021_outlier.png)
+
 ### About the talk:
 
 > In this talk, I present my favorite tips and tricks with regard to the ggplot2 package, a library for plotting in the programming language R. I will cover functions that are helpful but many may not be aware of as well as a collection of interesting functions from a large range of extension packages.  
@@ -11,7 +13,7 @@ The talk is intended for people who already know how to code in R and ggplot2. H
 
 * [Slides of my talk](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)
 * [Hands-on tutorial of the examples shown](https://www.cedricscherer.com/codes/OutlierConf2021_ggplotWizardry_HandsOn.html)
-* [Codes for the hands-on tutorial](https://www.github-com/Z3tt/OutlierConf2021/R/OutlierConf2021_ggplotWizardry_HandsOn.Rmd)
+* [Codes for the hands-on tutorial](https://github.com/Z3tt/OutlierConf2021/blob/main/R/OutlierConf2021_ggplotWizardry_HandsOn.Rmd)
 
 ### Further Resources:
 
