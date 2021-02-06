@@ -11,9 +11,10 @@ The talk is intended for people who already know how to code in R and ggplot2. H
 
 ### Talk Resources:
 
-* [Slides of my talk](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)
-* [Hands-on tutorial of the examples shown](https://z3tt.github.io/OutlierConf2021/)
-* [Codes for the hands-on tutorial](https://github.com/Z3tt/OutlierConf2021/blob/main/R/OutlierConf2021_ggplotWizardry_HandsOn.Rmd)
+* [Slides](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)
+* Recording (TBA)
+* [Hands-on tutorial](https://z3tt.github.io/OutlierConf2021/)
+* [Codes](https://github.com/Z3tt/OutlierConf2021/blob/main/R/OutlierConf2021_ggplotWizardry_HandsOn.Rmd)
 
 ### Further Resources:
 
