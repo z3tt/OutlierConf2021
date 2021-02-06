@@ -1,6 +1,8 @@
 # ggplot Wizardry:
 ### My Favorite Tricks and Secrets for Beautiful Plots in R
 
+<br>
+
 Slides and hands-on codes for my talk at the [1st OutlierConf](https://www.outlierconf.com/), February 4–7 2021.
 
 ![Title slide for my talk](https://raw.githubusercontent.com/Z3tt/OutlierConf2021/main/img/2021_outlier.png)
