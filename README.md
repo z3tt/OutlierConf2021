@@ -7,21 +7,21 @@ Slides and hands-on codes for my talk at the [1st OutlierConf](https://www.outli
 
 ![Title slide for my talk](https://raw.githubusercontent.com/Z3tt/OutlierConf2021/main/img/2021_outlier.png)
 
-#### Talk Resources:
+### Talk Resources:
 
 * Slides (TBA)
 * Recording (TBA)
 * [Hands-On Tutorial](https://z3tt.github.io/OutlierConf2021/)
 * [Codes](https://github.com/Z3tt/OutlierConf2021/blob/main/R/OutlierConf2021_ggplotWizardry_HandsOn.Rmd)
 
-#### About the talk:
+### About the talk:
 
 > In this talk, I present my favorite tips and tricks with regard to the ggplot2 package, a library for plotting in the programming language R. I will cover functions that are helpful but many may not be aware of as well as a collection of interesting functions from a large range of extension packages.  
 The talk is intended for people who already know how to code in R and ggplot2. However, I am going to cover a diverse collection of tips so I hope everyone can pick something helpful independent from their level of expertise.
 
 ![Preview collage of all slides](https://raw.githubusercontent.com/Z3tt/OutlierConf2021/main/img/2021_outlier_collage.png)
 
-#### Further Resources:
+### Further Resources:
 
 * [Intro to R](https://moderndive.com/) (one of many good online tutorials)
 * ["R for Data Science" book (open-access)](r4ds.had.co.nz/)
