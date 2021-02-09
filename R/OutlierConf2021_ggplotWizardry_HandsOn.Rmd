@@ -540,7 +540,7 @@ p2 <-
   labs(
     x = "Bill ratio",
     y = NULL,
-    subtitle = "B. Raincloud plot shwoing the distribution of bill ratios, estimated as bill length divided by bill depth.",
+    subtitle = "B. Raincloud plot showing the distribution of bill ratios, estimated as bill length divided by bill depth.",
     caption = "Data: Gorman, Williams & Fraser (2014) *PLoS ONE* &bull; Illustration: Allison Horst"
   ) +
   theme(
