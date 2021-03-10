@@ -1,9 +1,6 @@
 <h1 align="center">
-  &nbsp;ggplot Wizardry&nbsp;
+  &nbsp;ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R&nbsp;
 </h1>
-<h3 style="font-weight:normal" align="center">
-  &nbsp;My Favorite Tricks and Secrets for Beautiful Plots in R&nbsp;
-</h3>
 
 <div align="center">
 
