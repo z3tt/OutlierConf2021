@@ -1,5 +1,5 @@
 <h1 align="center">
-  &nbsp;ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R&nbsp;
+  &nbsp;ggplot Wizardry:<br>My Favorite Tricks and Secrets for Beautiful Plots in R&nbsp;
 </h1>
 
 <div align="center">
