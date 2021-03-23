@@ -22,8 +22,8 @@ Slides and hands-on codes for my talk at the [1st OutlierConf](https://www.outli
 
 ### Talk Resources:
 
-* Slides (TBA)
-* Recording (TBA)
+* [Slides](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)
+* [Recording](https://www.youtube.com/watch?v=7UjA_5gNvdw&list=PLAm5TIX-yz7IkKOUcStM_vl8AD0S9v0co&index=33)
 * [Hands-On Tutorial](https://z3tt.github.io/OutlierConf2021/)
 * [Codes](https://github.com/Z3tt/OutlierConf2021/blob/main/R/OutlierConf2021_ggplotWizardry_HandsOn.Rmd)
 
