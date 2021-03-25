@@ -26,6 +26,10 @@ Slides and hands-on codes for my talk at the [1st OutlierConf](https://www.outli
 * [Hands-On Tutorial](https://z3tt.github.io/OutlierConf2021/)
 * [Codes](https://github.com/Z3tt/OutlierConf2021/blob/main/R/OutlierConf2021_ggplotWizardry_HandsOn.Rmd)
 
+**Bonus: Extended version!**
+
+* [Slides from the useR! Oslo meeting on March 24, 2021]()
+
   <br>
   <a href="https://www.buymeacoffee.com/z3tt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   <br><br>
