@@ -28,7 +28,7 @@ Slides and hands-on codes for my talk at the [1st OutlierConf](https://www.outli
 
 **Bonus: Extended version!**
 
-* [Slides from the useR! Oslo meeting on March 24, 2021]()
+* [Slides from the useR! Oslo meeting on March 24, 2021](https://www.cedricscherer.com/slides/useR-2021_ggplot-wizardry-extended.pdf)
 
   <br>
   <a href="https://www.buymeacoffee.com/z3tt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
